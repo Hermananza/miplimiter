@@ -1,7 +1,7 @@
 panel:
   url: bz.hc-store.net
-  username: admin_username
-  password: admin_password
+  username: herman
+  password: herman
 
 users:
   user1: 3 # usermame: iplimit
