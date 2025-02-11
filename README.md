@@ -41,7 +41,7 @@ This software comes with ABSOLUTELY NO WARRANTY.
 ### Clone this Repo
 
 ```sh
-  git clone https://github.com/amirgi73/miplimiter.git
+  git clone https://github.com/Hermananza/miplimiter.git
   cd miplimiter
 ```
 ### Edit `config.yml` based on your needs
